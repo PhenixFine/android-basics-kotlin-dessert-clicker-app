@@ -1,6 +1,6 @@
 # DessertClicker App
 
-#### [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) - [Unit 3](https://developer.android.com/courses/android-basics-kotlin/unit-3) - [Pathway 1](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-3-pathway-1) - [Activity 4](https://developer.android.com/codelabs/basic-android-kotlin-training-activity-lifecycle) - Stages of the activity lifecycle: DessertClicker App Codelab
+#### [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) - [Unit 3](https://developer.android.com/courses/android-basics-kotlin/unit-3) - [Pathway 1](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-3-pathway-1) - [Activity 4](https://developer.android.com/codelabs/basic-android-kotlin-training-activity-lifecycle) - Stages of the activity lifecycle
 The codelab walks us through the lifecycle of an activity, how to use logging, and preserving activity state. The added code was provided within the codelab, and I only made slight modifications here and there.
 
 Other than **App Preview** ( image is from the codelab ), the following was part of the original readme file ( with modifications made to the headings to conform to the style I use ).
